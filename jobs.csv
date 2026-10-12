@@ -1,0 +1,6 @@
+job_title,required_skills,description
+Data Analyst,"Python;SQL;Excel;Pandas;Statistics;Power BI",Analyze data and prepare reports
+ML Engineer,"Python;Machine Learning;NumPy;Pandas;Git",Build and deploy machine learning models
+Python Developer,"Python;SQL;Git;APIs;Testing",Develop and maintain Python applications
+Business Analyst,"Excel;SQL;Communication;Power BI",Analyze business processes and data
+Data Scientist,"Python;SQL;Statistics;Machine Learning;Pandas",Build predictive models and analyze data
